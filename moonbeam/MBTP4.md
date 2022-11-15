@@ -18,22 +18,34 @@ We would like to hear the feedback for the proposed set of features in M1 (this 
 ![Nova_Moonbeam](assets/MBTP4/Nova_Moonbeam.jpg)
 
 [Nova Wallet](https://novawallet.io) is a next-gen mobile app for Polkadot eco & beyond:
+
 :milky_way: 63+ Polkadot networks
+
 :sparkling_heart: Amazing UX/UI
+
 :sparkles: Community-focused
+
 :zap: Fast & Feature-rich
+
 :twisted_rightwards_arrows: 140+ Cross-chain transfers
+
 :pancakes: GLMR, MOVR, DOT, KSM, PDEX, AZERO, TUR, CAP, KMA user-friendly onchain staking
+
 :rocket: Polkadot & Kusama Crowdloans
+
 :globe_with_meridians: DApp browser with Polkadot JS & MetaMask integration
+
 :bird: Access to RMRK & Statemine NFTs
+
 :iphone: Hardware wallets support: Parity Signer, Ledger Nano X
+
 :mechanical_arm: Secure & Open source
 
-Recent Achievements of Nova
-1 [Leading mobile app for cross-chain transfers in Polkadot & Kusama eco](https://twitter.com/NovaWalletApp/status/1562843135423954950)
-2 The first and only mobile app with hardware wallets support in eco: [Parity Signer](https://twitter.com/NovaWalletApp/status/1557683901232971778) & [Ledger](https://twitter.com/NovaWalletApp/status/1569663388913123329)
-3 [Nova Wallet & Moonbeam: The Ultimate Wallet Experience!](https://novawalletapp.medium.com/nova-wallet-moonbeam-the-ultimate-wallet-experience-d72b2055837d)
+
+**Recent Achievements of Nova**
+1. [Leading mobile app for cross-chain transfers in Polkadot & Kusama eco](https://twitter.com/NovaWalletApp/status/1562843135423954950)
+2. The first and only mobile app with hardware wallets support in eco: [Parity Signer](https://twitter.com/NovaWalletApp/status/1557683901232971778) & [Ledger](https://twitter.com/NovaWalletApp/status/1569663388913123329)
+3. [Nova Wallet & Moonbeam: The Ultimate Wallet Experience!](https://novawalletapp.medium.com/nova-wallet-moonbeam-the-ultimate-wallet-experience-d72b2055837d)
 
 Our team has been developing native mobile apps for Substrate/Polkadot eco for more than 3 years now. Recently we expanded the team size of Nova from 8 to 11 to increase the development velocity and quality of our products. In parallel, the second project of Novasama Technologies — Omni Enterprise, a desktop app for Polkadot eco — is being built by our second, newly formed team. We are the patrons of the Polkadot ecosystem and a highly motivated team to elevate the UX of user-facing applications, with the goal of them being the leading apps in the web3 industry.
 
@@ -115,13 +127,8 @@ Clarifications for the table above:
 
 Requested amount is going to be divided between Moonbeam and Moonriver treasury in 80-20 ratio (respectfully):
 
-* Moonbeam part: $61 440:
-127 363.18 GLMR
-based on WMA(30): GLMR: 0.4824 (Binance)
-* Moonriver part: $15 360:
-1 416.97 MOVR
-based on WMA(30): MOVR: 10.84 (Binance)
-Please let us know if you have any suggestions or comments before we do so. Thank you!
+* Moonbeam part: **$61 440**, equals **127 363.18 GLMR** based on WMA(30): GLMR: **0.4824** (Binance)
+* Moonriver part: **$15 360**, equals **1 416.97 MOVR** based on WMA(30): MOVR: **10.84** (Binance)
 
 # **6. Use of Treasury Funds**
 
@@ -146,7 +153,6 @@ We would be more than happy to discuss them
 
 # Update 15-11-2022:
 
-— Added information about amount divided in Moonbeam and Moonriver treasury proposals
 — Treasury proposals have been submitted.
 
 * Moonbeam Proposal #4: [Polkassembly](https://moonbeam.polkassembly.network/treasury/4)
