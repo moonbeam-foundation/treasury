@@ -21,4 +21,4 @@ This table lists Treasury Proposals that have been converted into Treasury Motio
 
 | Proposal ID | Motion | Title | Proposed By | Beneficiary | Reward | Status|
 |---          |---     |---    |---          |---          |---     |---    |
-| 4 |  | [Nova Wallet — M1 — ERC20 tokens integration and management](moonbeam/MBTP4.md) | 0xbaF5777F2250Ec5e294B6F3Dee28FcEfAD607975 | 0x232Bcd499e860BFcd240cf3c491654af77d79df9 | 127,363 GLMR | proposed |
+| 4 | 0 | [Nova Wallet — M1 — ERC20 tokens integration and management](moonbeam/MBTP4.md) | 0xbaF5777F2250Ec5e294B6F3Dee28FcEfAD607975 | 0x232Bcd499e860BFcd240cf3c491654af77d79df9 | 127,363 GLMR | proposed |
