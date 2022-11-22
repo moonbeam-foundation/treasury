@@ -32,3 +32,7 @@ Full proposal can be found here https://docs.google.com/document/d/14oIJ-tKtkJM5
 Corresponding Moonriver proposal can be found here https://moonriver.polkassembly.network/treasury/2
 
 **We’ve already made a on-chain proposal for 83,154.1985 GLMR. As this is greater than the updated GLMR proposal (66,144.85 GLMR) we will immediately refund the difference (17,009.3485 GLMR) to the Moonbeam treasury account on receipt of funds**
+
+## Update
+
+This proposal has be lodged here https://moonbeam.polkassembly.network/treasury/3
