@@ -31,6 +31,6 @@ This table lists Moonriver Treasury Proposals that have been converted into Trea
 
 | Proposal ID | Motion | Title | Proposed By | Beneficiary | Reward | Status|
 |---          |---     |---    |---          |---          |---     |---    |
-| 0 |  | [Nova Wallet — M1 — ERC20 tokens integration and management](moonriver/MBTP0.md) | 0x232Bcd499e860BFcd240cf3c491654af77d79df9 | 0x232Bcd499e860BFcd240cf3c491654af77d79df9 | 1,416.97 MOVR | |
-| 1 |  | [Dwellir - RPC Infrastructure Q3 Moonbeam ](moonriver/MBTP1.md) | 0xF8D757E04BF0fbd5432E743DD8612E62A9c983cf | 0xF8D757E04BF0fbd5432E743DD8612E62A9c983cf | 536.30 MOVR | |
-| 2 |  | [OnFinality High Performance Public Infrastructure (Aug - Sep 2022)](moonriver/MBTP2.md)| 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 |3,024.09 MOVR | |
+| 0 | 0 | [Nova Wallet — M1 — ERC20 tokens integration and management](moonriver/MBTP0.md) | 0x232Bcd499e860BFcd240cf3c491654af77d79df9 | 0x232Bcd499e860BFcd240cf3c491654af77d79df9 | 1,416.97 MOVR | voting |
+| 1 | 1 | [Dwellir - RPC Infrastructure Q3 Moonbeam ](moonriver/MBTP1.md) | 0xF8D757E04BF0fbd5432E743DD8612E62A9c983cf | 0xF8D757E04BF0fbd5432E743DD8612E62A9c983cf | 536.30 MOVR | voting |
+| 2 | 2 | [OnFinality High Performance Public Infrastructure (Aug - Sep 2022)](moonriver/MBTP2.md)| 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 |3,024.09 MOVR | voting |
