@@ -15,7 +15,7 @@ The following proposal was proposed by a community member prior to the Interim T
 
 | Proposal ID | Title | Proposed By | Beneficiary | Reward | Status|
 |---          |---    |---          |---          |---     |---    |
-| 2 | [Subscan | Infrastructure Costs of Subscan for Moonbeam & Moonriver & Moonbase Networks](history/proposal2.md) | 0x9c0fEf6b48Cb0B16EDc72a61d9503A78782c19e2 | 0x9c0fEf6b48Cb0B16EDc72a61d9503A78782c19e2 | 130,343 GLMR | rejected |
+| 2 | Subscan - Infrastructure Costs of Subscan for Moonbeam & Moonriver & Moonbase Networks](history/proposal2.md) | 0x9c0fEf6b48Cb0B16EDc72a61d9503A78782c19e2 | 0x9c0fEf6b48Cb0B16EDc72a61d9503A78782c19e2 | 130,343 GLMR | rejected |
 
 This proposal was ultimately rejected for lack of detail and the proposer advised to resubmit a new proposal following the new Interim Treasury Proposal process.
 
