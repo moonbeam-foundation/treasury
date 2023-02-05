@@ -4,7 +4,7 @@ This repository contains information about the Moonbeam and Moonriver Treasury
 
 ## Historic Moonbeam Treasury Proposals
 
-The following three proposals were proposed by community members & awarded by the Moonbeam Council, prior to the Interim Treasury Proposal going into effect:
+The following two proposals were proposed by community members & awarded by the Moonbeam Council, prior to the Interim Treasury Proposal going into effect:
 
 | Proposal ID | Title | Proposed By | Beneficiary | Reward | Status|
 |---          |---    |---          |---          |---     |---    |
