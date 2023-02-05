@@ -4,12 +4,20 @@ This repository contains information about the Moonbeam and Moonriver Treasury
 
 ## Historic Moonbeam Treasury Proposals
 
-The following two proposals were proposed by community members & awarded by the Moonbeam Council, prior to the Interim Treasury Proposal going into effect:
+The following three proposals were proposed by community members & awarded by the Moonbeam Council, prior to the Interim Treasury Proposal going into effect:
 
 | Proposal ID | Title | Proposed By | Beneficiary | Reward | Status|
 |---          |---    |---          |---          |---     |---    |
 | 0 | [Privacy on Moonbeam](history/proposal0.md) | 0x1719a9dF91E8605e33905c37811335351718c781 | 0x39C78316C6Bc601cf45f5Ef20296f80e9b0A7039 | 45,454 GLMR | awarded |
 | 1 | [OnFinality High Performance Public Infrastructure (to end of Q2 2022)](history/proposal1.md) | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 130,343 GLMR | awarded |
+
+The following proposal was proposed by a community member prior to the Interim Treasury Proposal going into effect.  More information was requested by the Moonbeam Council but not received before the Interim Treasury Proposal went into effect:
+
+| Proposal ID | Title | Proposed By | Beneficiary | Reward | Status|
+|---          |---    |---          |---          |---     |---    |
+| 2 | [Subscan | Infrastructure Costs of Subscan for Moonbeam & Moonriver & Moonbase Networks](history/proposal2.md) | 0x9c0fEf6b48Cb0B16EDc72a61d9503A78782c19e2 | 0x9c0fEf6b48Cb0B16EDc72a61d9503A78782c19e2 | 130,343 GLMR | rejected |
+
+This proposal was ultimately rejected for lack of detail and the proposer advised to resubmit a new proposal following the new Interim Treasury Proposal process.
 
 ## Interim Treasury Program
 
