@@ -44,3 +44,4 @@ This table lists Moonriver Treasury Proposals that have been converted into Trea
 | 1 | 1 | [Dwellir - RPC Infrastructure Q3 Moonbeam ](moonriver/MRTP1.md) | 0xF8D757E04BF0fbd5432E743DD8612E62A9c983cf | 0xF8D757E04BF0fbd5432E743DD8612E62A9c983cf | 536.30 MOVR | rejected |
 | 2 | 2 | [OnFinality High Performance Public Infrastructure (Aug - Sep 2022)](moonriver/MRTP2.md)| 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 |3,024.09 MOVR | approved |
 | 3 | 3 | [OnFinality High Performance Public Infrastructure (Nov - Dec 2022)](moonriver/MRTP3.md) | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 1,638.3401 MOVR| voting |
+| 4 | 4 | [Polkassembly OpenGov development](moonriver/MRTP4.md) | 0x0ab82eff2945edf9d6637481b47e6f2fd5b7e374 | 0x0aB82EFf2945eDf9D6637481b47E6F2Fd5B7E374 | 2,229.00 MOVR| approved |

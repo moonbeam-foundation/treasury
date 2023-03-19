@@ -47,8 +47,8 @@ https://moonbase.polkassembly.io/](https://moonriver.polkassembly.network/)
 [https://github.com/premiurly/polkassembly](https://github.com/premiurly/polkassembly)
 
 ## Task Level
-![Task level](https://github.com/joseJRJR/treasury---/blob/main/moonriver/assets/Screenshot_137.png?raw=true)
-![enter image description here](https://github.com/joseJRJR/treasury---/blob/main/moonriver/assets/Screenshot_138.png?raw=true)
+![Task level](./assets/Screenshot_137.png?raw=true)
+![enter image description here](./assets/Screenshot_138.png?raw=true)
 
 
 
