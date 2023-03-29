@@ -1,4 +1,4 @@
-﻿# **Polkassembly/Moonriver + Moonbase OpenGov development**
+﻿# **Moonbeam Bounty for ZK Hack Lisbon**
 
 Proposal: ZK Hackathon - Bounty for ZK Hackers on Moonbeam
 
