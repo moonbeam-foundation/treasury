@@ -33,7 +33,9 @@ This table lists Moonbeam Treasury Proposals that have been converted into Treas
 | 3 | 1 | [OnFinality High Performance Public Infrastructure (Aug - Sep 2022)](moonbeam/MBTP3.md)| 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 |83,154.1985 GLMR | approved |
 | 4 | 0 | [Nova Wallet — M1 — ERC20 tokens integration and management](moonbeam/MBTP4.md) | 0xbaF5777F2250Ec5e294B6F3Dee28FcEfAD607975 | 0x232Bcd499e860BFcd240cf3c491654af77d79df9 | 127,363 GLMR | approved |
 | 5 | 2 | [Dwellir - RPC Infrastructure Q3 Moonbeam ](moonbeam/MBTP5.md) | 0xF8D757E04BF0fbd5432E743DD8612E62A9c983cf | 0xF8D757E04BF0fbd5432E743DD8612E62A9c983cf | 15,382.2600 GLMR | rejected |
-| 6 | 3 | [OnFinality High Performance Public Infrastructure (Nov - Dec 2022)](moonbeam/MBTP6.md) | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 55,154 GLMR | voting |
+| 6 | 3 | [OnFinality High Performance Public Infrastructure (Nov - Dec 2022)](moonbeam/MBTP6.md) | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 55,154 GLMR | approved |
+| 7 | 5 | [Web3Go Data Analytics service for Moonbeam and Moonriver of Q2 2023](moonbeam/MBTP7.md) | 0xd57e28773c92e6fb9d9fb164889886cd360074be | 0xd57e28773c92e6fb9d9fb164889886cd360074be | 56,356.60 GLMR | approved |
+| 8 | 6 | [Moonbeam Bounty for ZK Hack Lisbon](moonbeam/MBTP8.md) | 0xbcdc6f853927e89032d10bf078ae32a18c02b321 | 0x39c78316c6bc601cf45f5ef20296f80e9b0a7039 | 12,500 GLMR | approved |
 
 ### Moonriver
 This table lists Moonriver Treasury Proposals that have been converted into Treasury Motions by the Treasury Council under the terms of the Interim Treasury Program
@@ -43,5 +45,6 @@ This table lists Moonriver Treasury Proposals that have been converted into Trea
 | 0 | 0 | [Nova Wallet — M1 — ERC20 tokens integration and management](moonriver/MRTP0.md) | 0x232Bcd499e860BFcd240cf3c491654af77d79df9 | 0x232Bcd499e860BFcd240cf3c491654af77d79df9 | 1,416.97 MOVR | approved |
 | 1 | 1 | [Dwellir - RPC Infrastructure Q3 Moonbeam ](moonriver/MRTP1.md) | 0xF8D757E04BF0fbd5432E743DD8612E62A9c983cf | 0xF8D757E04BF0fbd5432E743DD8612E62A9c983cf | 536.30 MOVR | rejected |
 | 2 | 2 | [OnFinality High Performance Public Infrastructure (Aug - Sep 2022)](moonriver/MRTP2.md)| 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 |3,024.09 MOVR | approved |
-| 3 | 3 | [OnFinality High Performance Public Infrastructure (Nov - Dec 2022)](moonriver/MRTP3.md) | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 1,638.3401 MOVR| voting |
+| 3 | 3 | [OnFinality High Performance Public Infrastructure (Nov - Dec 2022)](moonriver/MRTP3.md) | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 1,638.3401 MOVR| approved |
 | 4 | 4 | [Polkassembly OpenGov development](moonriver/MRTP4.md) | 0x0ab82eff2945edf9d6637481b47e6f2fd5b7e374 | 0x0aB82EFf2945eDf9D6637481b47E6F2Fd5B7E374 | 2,229.00 MOVR| approved |
+| 5 | 5 | [Web3Go Data Analytics service for Moonbeam and Moonriver of Q2 2023](moonriver/MRTP5.md) | 0xd57e28773c92e6fb9d9fb164889886cd360074be | 0xd57e28773c92e6fb9d9fb164889886cd360074be | 645.50 MOVR| approved |
