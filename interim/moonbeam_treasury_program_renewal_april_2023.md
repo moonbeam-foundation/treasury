@@ -1,8 +1,8 @@
 # Abstract
 
-The Interim Treasury Program ([Proposal](https://moonbeam.polkassembly.io/referendum/67), [Proposal Description](https://moonbeam.polkassembly.network/post/202)) was enacted on October 19th, 2023 to establish a transparent and community-engaged process for how the Moonriver and Moonbeam Treasury is spent. 
+The Interim Treasury Program ([Proposal](https://moonbeam.polkassembly.io/referendum/67), [Proposal Description](https://moonbeam.polkassembly.network/post/202)) was enacted on October 19th, 2022 to establish a transparent and community-engaged process for how the Moonriver and Moonbeam Treasury is spent. 
 
-As part of the proposal, a community Treasury Council was created to facilitate community discussions and vote on spending proposals. The Treasury Council Member addresses were set on chain on October 26th, 2023 with [Referendum 69](https://moonbeam.polkassembly.network/referendum/69).
+As part of the proposal, a community Treasury Council was created to facilitate community discussions and vote on spending proposals. The Treasury Council Member addresses were set on chain on October 26th, 2022 with [Referendum 69](https://moonbeam.polkassembly.network/referendum/69).
 
 Since that time, there have been 9 proposals made in the [Moonbeam Community Forum](https://forum.moonbeam.foundation/c/governance/treasury-proposals/8) from a variety of teams to fund infrastructure, software development and other initiatives aimed at supporting the broader Moonbeam and Moonriver ecosystems. Of the 9 proposals, as of today, 7 have gone on to be approved by the Treasury Council totalling 366,391 GLMR and 8625 MOVR.
 
