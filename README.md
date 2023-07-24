@@ -54,4 +54,4 @@ This table lists Moonriver Treasury Proposals that have been converted into Trea
 | 6 | 6 | [Blast support for Moonbeam, Moonriver, and Moonbase alpha](moonriver/MRTP6.md) | 0x4f16ab671eaba71c33c79cbb83da5eab1bc615ba | 0xb8950c47e8b9e539601cb47a167de8bf4cb1289e | 562.3443 MOVR | approved |
 | 7 | 7 | [OnFinality High Performance Public Infrastructure (2023, Q1)](moonriver/MRTP7.md) | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 1764 MOVR | approved |
 | 8 | 8 | [StakeGlmr.com and StakeMovr.com V2 - Treasury Proposal](moonriver/MRTP8&MBTP10.md) | 0x6F102978D4111BeCdDa6029a6B4B72e371E6Ab97 | 0x1980E75f1b1cdAAe3b2f79664C7cb83b86A3D404 | 567.82 MOVR | approved |
-| 9 | 9 | [Moonbeam Multisig support and optimization for Moonbeam, Moonriver and Moonbase)](moonriver/MBTP12&MRTP9.md) | 0xb555dfd17acd414101109f5d75d861a9596deb33 | 0x4da9a7f9e2381c0d663116ed8de297bad1db951c | 1431 MOVR | voting |
+| 9 | 9 | [Moonbeam Multisig support and optimization for Moonbeam, Moonriver and Moonbase)](moonriver/MRTP9&MBTP12.md) | 0xb555dfd17acd414101109f5d75d861a9596deb33 | 0x4da9a7f9e2381c0d663116ed8de297bad1db951c | 1431 MOVR | voting |
