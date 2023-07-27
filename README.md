@@ -42,7 +42,7 @@ This table lists Moonbeam Treasury Proposals that have been converted into Treas
 | 12 | 10 | [Moonbeam Multisig support and optimization for Moonbeam, Moonriver and Moonbase)](moonbeam/MBTP12&MRTP9.md) | 0xb555dfd17acd414101109f5d75d861a9596deb33 | 0x4da9a7f9e2381c0d663116ed8de297bad1db951c | 129883 GLMR | approved |
 | 13 | 11 | [OnFinality High Performance Public Infrastructure (2023, Q2)](moonbeam/MBTP13&MRTP10.md) | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 0xf1ccf19f71d820db4cd1263516a958d3e6272021 | 100,215.42 GLMR | approved |
 | 14 | 12 | [Moonbeam NFT Tracker](moonbeam/MBTP14.md) | 0xB0944bfC924E42D7F609B7F89Fe84B807AFb53e7 | 0xB0944bfC924E42D7F609B7F89Fe84B807AFb53e7 | 9,098 GLMR | approved |
-| 15 | 13 | [Blast support for Moonbeam, Moonriver, and Moonbase alpha (Q2 2023)](moonbeam/MBTP15&MRTP11.md) | 0x4f16ab671eaba71c33c79cbb83da5eab1bc615ba | 0x4f16ab671eaba71c33c79cbb83da5eab1bc615ba | 68,134.0474  GLMR | voting |
+| 15 | 13 | [Blast support for Moonbeam, Moonriver, and Moonbase alpha (Q2 2023)](moonbeam/MBTP15&MRTP11.md) | 0x4f16ab671eaba71c33c79cbb83da5eab1bc615ba | 0x4f16ab671eaba71c33c79cbb83da5eab1bc615ba | 68,134.0474  GLMR | approved |
 ### Moonriver
 This table lists Moonriver Treasury Proposals that have been converted into Treasury Motions by the Treasury Council under the terms of the Interim Treasury Program
 
@@ -59,4 +59,4 @@ This table lists Moonriver Treasury Proposals that have been converted into Trea
 | 8 | 8 | [StakeGlmr.com and StakeMovr.com V2 - Treasury Proposal](moonriver/MRTP8&MBTP10.md) | 0x6F102978D4111BeCdDa6029a6B4B72e371E6Ab97 | 0x1980E75f1b1cdAAe3b2f79664C7cb83b86A3D404 | 567.82 MOVR | approved |
 | 9 | 9 | [Moonbeam Multisig support and optimization for Moonbeam, Moonriver and Moonbase)](moonriver/MRTP9&MBTP12.md) | 0xb555dfd17acd414101109f5d75d861a9596deb33 | 0x4da9a7f9e2381c0d663116ed8de297bad1db951c | 1431 MOVR | approved |
 | 10 | 10 | [OnFinality High Performance Public Infrastructure (2023, Q2)](moonriver/MRTP10&MBTP13.md) | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 3,081.34 MOVR | approved |
-| 11 | 11 | [Blast support for Moonbeam, Moonriver, and Moonbase alpha (Q2 2023)](moonriver/MBTP15&MRTP11.md) | 0x4f16ab671eaba71c33c79cbb83da5eab1bc615ba | 0x4f16ab671eaba71c33c79cbb83da5eab1bc615ba | 787.9662 MOVR | voting |
+| 11 | 11 | [Blast support for Moonbeam, Moonriver, and Moonbase alpha (Q2 2023)](moonriver/MBTP15&MRTP11.md) | 0x4f16ab671eaba71c33c79cbb83da5eab1bc615ba | 0x4f16ab671eaba71c33c79cbb83da5eab1bc615ba | 787.9662 MOVR | approved |
