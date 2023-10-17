@@ -43,7 +43,7 @@ This table lists Moonbeam Treasury Proposals that have been converted into Treas
 | 13 | 11 | [OnFinality High Performance Public Infrastructure (2023, Q2)](moonbeam/MBTP13&MRTP10.md) | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 0xf1ccf19f71d820db4cd1263516a958d3e6272021 | 100,215.42 GLMR | approved |
 | 14 | 12 | [Moonbeam NFT Tracker](moonbeam/MBTP14.md) | 0xB0944bfC924E42D7F609B7F89Fe84B807AFb53e7 | 0xB0944bfC924E42D7F609B7F89Fe84B807AFb53e7 | 9,098 GLMR | approved |
 | 15 | 13 | [Blast support for Moonbeam, Moonriver, and Moonbase alpha (Q2 2023)](moonbeam/MBTP15&MRTP11.md) | 0x4f16ab671eaba71c33c79cbb83da5eab1bc615ba | 0x4f16ab671eaba71c33c79cbb83da5eab1bc615ba | 68,134.0474  GLMR | approved |
-| 16 | 14 | [Polkassembly OpenGov development - Moonbeam](moonbeam/MBTP16.md) | 0x0ab82eff2945edf9d6637481b47e6f2fd5b7e374 | 0x0ab82eff2945edf9d6637481b47e6f2fd5b7e374 | 98,891.0000   GLMR | voting |
+| 16 | 14 | [Polkassembly OpenGov development - Moonbeam](moonbeam/MBTP16.md) | 0x0ab82eff2945edf9d6637481b47e6f2fd5b7e374 | 0x0ab82eff2945edf9d6637481b47e6f2fd5b7e374 | 98,891.0000   GLMR | approved |
 ### Moonriver
 This table lists Moonriver Treasury Proposals that have been converted into Treasury Motions by the Treasury Council under the terms of the Interim Treasury Program
 
