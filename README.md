@@ -45,7 +45,8 @@ This table lists Moonbeam Treasury Proposals that have been converted into Treas
 | 15 | 13 | [Blast support for Moonbeam, Moonriver, and Moonbase alpha (Q2 2023)](moonbeam/MBTP15&MRTP11.md) | 0x4f16ab671eaba71c33c79cbb83da5eab1bc615ba | 0x4f16ab671eaba71c33c79cbb83da5eab1bc615ba | 68,134.0474  GLMR | approved |
 | 16 | 14 | [Polkassembly OpenGov development - Moonbeam](moonbeam/MBTP16.md) | 0x0ab82eff2945edf9d6637481b47e6f2fd5b7e374 | 0x0ab82eff2945edf9d6637481b47e6f2fd5b7e374 | 98,891.0000   GLMR | approved |
 | 17 | 15 | [UnitedBloc - Retroactive Treasury Proposal for Q3 2023](moonbeam/MBTP17&MRTP12&MRTP15.md) | 0x10023fA70Ed528E4F28915bf210f6e87b057c08E | 0xfD346Be6cd55247D4b928656E0DCdC10C1660434 | 44,289.2952   GLMR | voting |
-| 18 | 16 | [OnFinality High Performance Public Infrastructure (2023, Q3)](moonbeam/MBTP18&MRTP13.md) | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 139,138.4600 GLMR   GLMR | voting |
+| 18 | 16 | [OnFinality High Performance Public Infrastructure (2023, Q3)](moonbeam/MBTP18&MRTP13.md) | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 139,138.4600 GLMR | voting |
+| 19 | 17 | [OnFinality High Performance Public Infrastructure Transition Project](moonbeam/MBTP19&MRTP14.md) | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 36,923.0800 GLMR | voting |
 ### Moonriver
 This table lists Moonriver Treasury Proposals that have been converted into Treasury Motions by the Treasury Council under the terms of the Interim Treasury Program
 
@@ -66,3 +67,4 @@ This table lists Moonriver Treasury Proposals that have been converted into Trea
 | 12 | 12 | [UnitedBloc - Retroactive Treasury Proposal for Q3 2023](moonriver/MRTP12&MRTP15&MBTP17.md) | 0x693aB260de2a31c1B5D7DC9cb253B87eD9b1f385 | 0xfD346Be6cd55247D4b928656E0DCdC10C1660434 | 544.4432 MOVR | voting |
 | 12 | 15 | [UnitedBloc - Retroactive Treasury Proposal for Q3 2023](moonriver/MRTP12&MRTP15&MBTP17.md) | 0x693aB260de2a31c1B5D7DC9cb253B87eD9b1f385 | 0x2b0B08fE83fADCAffd49dfB433244ad670c2D3ba | 544.4432 MOVR | voting |
 | 13 | 13 | [OnFinality High Performance Public Infrastructure (2023, Q3)](moonriver/MRTP13&MBTP18.md) | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 1,712.8800 MOVR | voting |
+| 14 | 14 | [OnFinality High Performance Public Infrastructure Transition Project](moonriver/MRTP14&MBTP19.md) | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 454.5400 MOVR | voting |
