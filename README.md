@@ -54,6 +54,8 @@ This table lists Moonbeam Treasury Proposals that have been converted into Treas
 | 24 | 23 | [Blast support for Moonbeam, Moonriver, and Moonbase alpha (Q1 2024)](moonbeam/MBTP24&MRTP20.md) | 0x4f16ab671eaba71c33c79cbb83da5eab1bc615ba | 0x4f16ab671eaba71c33c79cbb83da5eab1bc615ba | 18,750.00 GLMR | approved |
 | 25 | 24 | [UnitedBloc Q2 2024 RPC Services](moonbeam/MBTP25&MRTP21.md) | 0xbb1e1722513a8fa80f7593617bb0113b1258b7f1 | 0xfd346be6cd55247d4b928656e0dcdc10c1660434 | 12,203.39 GLMR | approved |
 | 27 | 26 | [OnFinality Q2/Q3 2024 public RPC service support for Moonbeam, Moonriver, and Moonbase Alpha](moonbeam/MBTP27&MRTP23.md) | 0xf1ccf19f71d820db4cd1263516a958d3e6272021 | 0xf1ccf19f71d820db4cd1263516a958d3e6272021 | 10,847.46 GLMR | approved |
+| 28 | -- | [for Funding Subscan Explorer Operations and Maintenance on Moonbeam and Moonbase Networks for 2022 and 2023](moonbeam/MBPT28&MBTP29&MRTP24&MRTP25.md) | 0x9c0fef6b48cb0b16edc72a61d9503a78782c19e2 | 0x9c0fef6b48cb0b16edc72a61d9503a78782c19e2 | 146,714.8 GLMR | approved |
+| 29 | -- | [for Funding Subscan Explorer Operations and Maintenance on Moonbeam and Moonbase Networks for 2022 and 2023](moonbeam/MBPT28&MBTP29&MRTP24&MRTP25.md) | 0x9c0fef6b48cb0b16edc72a61d9503a78782c19e2 | 0x9c0fef6b48cb0b16edc72a61d9503a78782c19e2 | 183,393.5 GLMR | approved |
 
 ### Moonriver
 This table lists Moonriver Treasury Proposals that have been converted into Treasury Motions by the Treasury Council under the terms of the Interim Treasury Program
@@ -83,3 +85,5 @@ This table lists Moonriver Treasury Proposals that have been converted into Trea
 | 20 | 20 | [Blast support for Moonbeam, Moonriver, and Moonbase alpha (Q1 2024)](moonriver/MRTP20&MBTP24.md) | 0x4f16ab671eaba71c33c79cbb83da5eab1bc615ba | 0x97913A2100199D47c31a4296b36Da8d12C605959 | 208.90 MOVR | approved |
 | 21 | 21 | [UnitedBloc Q2 2024 RPC Services](moonriver/MRTP21&MBTP25.md) | 0x1ff806216c8347f6aae84efedf0ee3eac7935095 | 0x2b0b08fe83fadcaffd49dfb433244ad670c2d3ba | 189.08 MOVR | approved |
 | 23 | 23 | [OnFinality Q2/Q3 2024 public RPC service support for Moonbeam, Moonriver, and Moonbase Alpha ](moonbeam/MRTP23&MBTP27.md) | 0xf1ccf19f71d820db4cd1263516a958d3e6272021 | 0xf1ccf19f71d820db4cd1263516a958d3e6272021 | 168.51 MOVR | approved |
+| 24 | -- | [for Funding Subscan Explorer Operations and Maintenance on Moonbeam and Moonbase Networks for 2022 and 2023](moonbeam/MBPT28&MBTP29&MRTP24&MRTP25.md) | 0x9c0fef6b48cb0b16edc72a61d9503a78782c19e2 | 0x9c0fef6b48cb0b16edc72a61d9503a78782c19e2 | 1,337.3 MOVR | approved |
+| 25 | -- | [for Funding Subscan Explorer Operations and Maintenance on Moonbeam and Moonbase Networks for 2022 and 2023](moonbeam/MBPT28&MBTP29&MRTP24&MRTP25.md) | 0x9c0fef6b48cb0b16edc72a61d9503a78782c19e2 | 0x9c0fef6b48cb0b16edc72a61d9503a78782c19e2 | 1,671.6 MOVR | approved |
