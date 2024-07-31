@@ -52,7 +52,7 @@ This table lists Moonbeam Treasury Proposals that have been converted into Treas
 | 22 | 22 | [UnitedBlock - Treasury Proposal for Q1 2024](moonbeam/MBTP22&MRTP18.md) | 0xbb1e1722513a8fa80f7593617bb0113b1258b7f1 | 0xfd346be6cd55247d4b928656e0dcdc10c1660434 | 7,805.35 GLMR | approved |
 | 23 | 21 | [ Moonbeam Multisig support and optimization services for Moonbeam, Moonriver and Moonbase for Dec/2023 and full 1st Semester/2024](moonbeam/MBTP23&MRTP19.md) | 0xB555dFD17aCD414101109f5D75d861A9596Deb33 | 0x4DA9a7f9e2381C0D663116Ed8dE297BAd1DB951c | 69,342.00 GLMR | approved |
 | 24 | 23 | [Blast support for Moonbeam, Moonriver, and Moonbase alpha (Q1 2024)](moonbeam/MBTP24&MRTP20.md) | 0x4f16ab671eaba71c33c79cbb83da5eab1bc615ba | 0x4f16ab671eaba71c33c79cbb83da5eab1bc615ba | 18,750.00 GLMR | approved |
-| 25 | 24 | [UnitedBloc Q2 2024 RPC Services](moonbeam/MBTP25&MRTP21.md) | 0xbb1e1722513a8fa80f7593617bb0113b1258b7f1 | 0xfd346be6cd55247d4b928656e0dcdc10c1660434 | 12,203.39 GLMR | voting |
+| 25 | 24 | [UnitedBloc Q2 2024 RPC Services](moonbeam/MBTP25&MRTP21.md) | 0xbb1e1722513a8fa80f7593617bb0113b1258b7f1 | 0xfd346be6cd55247d4b928656e0dcdc10c1660434 | 12,203.39 GLMR | approved |
 
 ### Moonriver
 This table lists Moonriver Treasury Proposals that have been converted into Treasury Motions by the Treasury Council under the terms of the Interim Treasury Program
@@ -80,4 +80,4 @@ This table lists Moonriver Treasury Proposals that have been converted into Trea
 | 18 | 19 | [UnitedBlock - Treasury Proposal for Q1 2024](moonriver/MRTP18&MBTP22.md) | 0x1ff806216c8347f6aae84efedf0ee3eac7935095 | 0x2b0b08fe83fadcaffd49dfb433244ad670c2d3ba | 109.40 MOVR | approved |
 | 19 | 18 | [Moonbeam Multisig support and optimization services for Moonbeam, Moonriver and Moonbase for Dec/2023 and full 1st Semester/2024](moonriver/MRTP19&MBTP23.md) | 0x4DA9a7f9e2381C0D663116Ed8dE297BAd1DB951c | 0xb8950c47e8b9e539601cb47a167de8bf4cb1289e | 794.00 MOVR | approved |
 | 20 | 20 | [Blast support for Moonbeam, Moonriver, and Moonbase alpha (Q1 2024)](moonriver/MRTP20&MBTP24.md) | 0x4f16ab671eaba71c33c79cbb83da5eab1bc615ba | 0x97913A2100199D47c31a4296b36Da8d12C605959 | 208.90 MOVR | approved |
-| 21 | 21 | [UnitedBloc Q2 2024 RPC Services](moonriver/MRTP21&MBTP25.md) | 0x1ff806216c8347f6aae84efedf0ee3eac7935095 | 0x2b0b08fe83fadcaffd49dfb433244ad670c2d3ba | 189.08 MOVR | voting |
+| 21 | 21 | [UnitedBloc Q2 2024 RPC Services](moonriver/MRTP21&MBTP25.md) | 0x1ff806216c8347f6aae84efedf0ee3eac7935095 | 0x2b0b08fe83fadcaffd49dfb433244ad670c2d3ba | 189.08 MOVR | approved |
