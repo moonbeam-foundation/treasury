@@ -49,8 +49,8 @@ This table lists Moonbeam Treasury Proposals that have been converted into Treas
 | 19 | 18 | [OnFinality High Performance Public Infrastructure Transition Project](moonbeam/MBTP19&MRTP14.md) | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 0xf1cCF19F71D820dB4cd1263516a958D3E6272021 | 36,923.0800 GLMR | approved |
 | 20 | 19 | [UnitedBloc - RPC Service Provider Treasury Proposal for Q4 2023](moonbeam/MBTP20&MRTP16.md) | 0x10023fA70Ed528E4F28915bf210f6e87b057c08E | 0xfD346Be6cd55247D4b928656E0DCdC10C1660434 | 44,289.2952 GLMR | approved |
 | 21 | 20 | [Blast support for Moonbeam, Moonriver, and Moonbase alpha Q3 & Q4 2023](moonbeam/MBTP21&MRTP17.md) | 0x4f16ab671eaba71c33c79cbb83da5eab1bc615ba | 0xb8950c47e8b9e539601cb47a167de8bf4cb1289e | 109,280.00 GLMR | approved |
-| 26 | -- | [Dwellir Q2 2024 RPC Services](moonbeam/MBTP26&MRTP22.md) | 0xF8D757E04BF0fbd5432E743DD8612E62A9c983cf | 0xF8D757E04BF0fbd5432E743DD8612E62A9c983cf | 5,228.90 GLMR | voting |
-
+| 26 | 25 | [Dwellir Q2 2024 RPC Services](moonbeam/MBTP26&MRTP22.md) | 0xF8D757E04BF0fbd5432E743DD8612E62A9c983cf | 0xF8D757E04BF0fbd5432E743DD8612E62A9c983cf | 5,228.90 GLMR | approved |
+| 31 | -- | [Delegate dashboard renewal for Moonbeam, Moonriver and Moonbase](moonbeam/MBTP31&MRTP27.md) | 0xddEaf37E0e8482E743C4a830573A115038832569 | 0xddEaf37E0e8482E743C4a830573A115038832569 | 55,865.00 GLMR | voting |
 ### Moonriver
 This table lists Moonriver Treasury Proposals that have been converted into Treasury Motions by the Treasury Council under the terms of the Interim Treasury Program
 
@@ -75,3 +75,4 @@ This table lists Moonriver Treasury Proposals that have been converted into Trea
 | 16 | 16 | [UnitedBloc - RPC Service Provider Treasury Proposal for Q4 2023](moonriver/MRTP16&MBTP20.md) | 0x693aB260de2a31c1B5D7DC9cb253B87eD9b1f385 | 0x2b0B08fE83fADCAffd49dfB433244ad670c2D3ba | 544.4432 MOVR | approved |
 | 17 | 17 | [Blast support for Moonbeam, Moonriver, and Moonbase alpha Q3 & Q4 2023](moonriver/MRTP17&MBTP21.md) | 0x4f16ab671eaba71c33c79cbb83da5eab1bc615ba | 0xb8950c47e8b9e539601cb47a167de8bf4cb1289e | 1,370.00 MOVR | approved |
 | 22 | -- | [Dwellir Q2 2024 RPC Services](moonriver/MRTP22&MBTP26.md) | 0xF8D757E04BF0fbd5432E743DD8612E62A9c983cf | 0xF8D757E04BF0fbd5432E743DD8612E62A9c983cf | 81.00 MOVR | voting |
+| 27 | -- | [Delegate dashboard renewal for Moonbeam, Moonriver and Moonbase](moonriver/MRTP27&MBTP31.md) | 0xddEaf37E0e8482E743C4a830573A115038832569 | 0xddEaf37E0e8482E743C4a830573A115038832569 | 1,094.00 MOVR | voting |
