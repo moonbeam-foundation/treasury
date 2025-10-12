@@ -62,7 +62,7 @@ This table lists Moonbeam Treasury Proposals that have been converted into Treas
 | 32          | 31     | [Dwellir Q3 2024 RPC Services](moonbeam/MBTP26&MRTP22.md)                                                                                                      | 0xF8D757E04BF0fbd5432E743DD8612E62A9c983cf | 0xF8D757E04BF0fbd5432E743DD8612E62A9c983cf | 16,049.00 GLMR    | approved |
 | 33          | 32     | [OnFinality Q3 2024 public RPC service support for Moonbeam, Moonriver, and Moonbase Alpha](moonbeam/MBTP27&MRTP23.md)                                         | 0xf1ccf19f71d820db4cd1263516a958d3e6272021 | 0xf1ccf19f71d820db4cd1263516a958d3e6272021 | 30,976.74 GLMR    | approved |
 | 34          | 33     | [UnitedBloc Q3 2024 RPC Services](moonbeam/MBTP25&MRTP21.md)                                                                                                   | 0xbb1e1722513a8fa80f7593617bb0113b1258b7f1 | 0xfd346be6cd55247d4b928656e0dcdc10c1660434 | 37,456.65 GLMR    | approved |
-
+| 54          | 54     | [Delegate dashboard renewal for Moonbeam, Moonriver and Moonbase](moonbeam/MBTP54&MRTP51.md)                                                                   | 0xB969639e3Cbf1e5a1d753efb2be09De4f34001f7 | 0xC98786D5A7a03C1e74AffCb97fF7eF8a710DA09B | 81,358.09 GLMR    | approved |
 
 
 
@@ -102,3 +102,4 @@ This table lists Moonriver Treasury Proposals that have been converted into Trea
 | 28          | 28     | [Dwellir Q3 2024 RPC Services](moonriver/MRTP22&MBTP26.md)                                                                                                     | 0xF8D757E04BF0fbd5432E743DD8612E62A9c983cf | 0xF8D757E04BF0fbd5432E743DD8612E62A9c983cf | 207.00 MOVR     | approved |
 | 29          | 29     | [OnFinality Q3 2024 public RPC service support for Moonbeam, Moonriver, and Moonbase Alpha](moonriver/MRTP23&MBTP27.md)                                        | 0xf1ccf19f71d820db4cd1263516a958d3e6272021 | 0xf1ccf19f71d820db4cd1263516a958d3e6272021 | 397.27 MOVR     | approved |
 | 30          | 30     | [UnitedBloc Q3 2024 RPC Services](moonriver/MRTP21&MBTP25.md)                                                                                                  | 0xbb1e1722513a8fa80f7593617bb0113b1258b7f1 | 0x2b0B08fE83fADCAffd49dfB433244ad670c2D3ba | 483.17 MOVR     | approved |
+| 51          | 55     | [Delegate dashboard renewal for Moonbeam, Moonriver and Moonbase](moonbeam/MRTP51&MBTP54.md)                                                                   | 0xB969639e3Cbf1e5a1d753efb2be09De4f34001f7 | 0xC98786D5A7a03C1e74AffCb97fF7eF8a710DA09B | 618.92 MOVR    | approved |
