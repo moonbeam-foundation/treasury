@@ -1,0 +1,3 @@
+This Treasury Proposal was errourously created using the `treasury.spend` call which for the at the time of creation current RT3401 is to be temporarily replaced by `treasury.spendLocal` as pointed out in Alberto's forum post about the [New Treasury Proposal flow](https://forum.moonbeam.network/t/proposal-xx-dwellir-q4-2024-q1-2025-rpc-services/1816/23)
+_"Note that to ensure the Treasury funds are not locked, RT3401 will use the call treasury.spendLocal. For RT3500 onwards, the call treasury.spend will be used, as the previous one will be deprecated as of May 2025."_
+The proposal was therefore disapproved by the Treasury Council and a new one created using the appropriate `treasury.spendLocal` call which can be explored in [MRTP41&MBTP44.md](MRTP41&MBTP44.md).
