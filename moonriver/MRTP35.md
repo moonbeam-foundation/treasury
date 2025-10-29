@@ -1,0 +1,1 @@
+This Treasury Proposal was created for the five members of the Treasury Council to test the new [Treasury Proposal Flow](https://forum.moonbeam.network/t/runtime-rt3400-schedule/1954/6).
