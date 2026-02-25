@@ -1,0 +1,1 @@
+This is a test payout of 1 USDC (assetID `166377000701797186346254371275954761085`) conducted by the Treasury Council to affirm the Treasury's stablecoin payout ability. The 1 USDC payout was returned to the treasury.

@@ -87,6 +87,8 @@ This table lists Moonbeam Treasury Proposals that have been converted into Treas
 | 60          | 60     | [[Proposal: MB11 & 30 / MR8 & 26] StakeGlmr.com and StakeMovr.com V2 - Treasury Proposal Q3 2025](moonbeam/MBTP60&MRTP57.md) | 0x41D4B02022165Fcd47b4E0F64Aa41eEF9ef1da38 | 0xAb4B115b2D23EF8DA7b0aa54FC074fB4C6886441 | 30759.16 GLMR    | approved |
 | 61          | 61     | [OnFinality's Proposal for High Performance RPC & Bootnode for Moonbeam, Moonriver, and Moonbase Alpha in Q4 2025/Q1 2026](moonbeam/MBTP61&MRTP58.md) | 0x41D4B02022165Fcd47b4E0F64Aa41eEF9ef1da38 | 0xa674Bf4c9eb504fe7ca195AD715De053EDEc38f3 | 122518.36 GLMR    | approved |
 | 62          | 62     | [[Proposal: MBXX/MRXX] UnitedBloc - Treasury Proposal for Q4/Q1 2026](moonbeam/MBTP62&MRTP59.md) | 0x41D4B02022165Fcd47b4E0F64Aa41eEF9ef1da38 | 0xfD346Be6cd55247D4b928656E0DCdC10C1660434 | 136782.86 GLMR    | approved |
+| 63          | 63     | [Multisig Support as a Service: Moonbeam, Moonriver, and Moonbase for 1st Semester/2026.](moonbeam/MBTP63&MRTP60.md) | 0x1CdC248174ec9e9c505fabDbb0E037B5AcaB5c13 | 0x4DA9a7f9e2381C0D663116Ed8dE297BAd1DB951c | 760468.91 GLMR    | approved |
+| 64          | 64     | [Treasury Council USDC payout test](moonbeam/MBTP64.md) | 0x1CdC248174ec9e9c505fabDbb0E037B5AcaB5c13 | 0x1CdC248174ec9e9c505fabDbb0E037B5AcaB5c13 | 1 USDC    | approved |
 
 
 
@@ -152,4 +154,5 @@ This table lists Moonriver Treasury Proposals that have been converted into Trea
 | 56          | 57     | [[Proposal: MB11 & 30 / MR8 & 26] StakeGlmr.com and StakeMovr.com V2 - Treasury Proposal Q3 2025](moonriver/MRTP56&MBTP59.md) | 0x41D4B02022165Fcd47b4E0F64Aa41eEF9ef1da38 | 0x1980E75f1b1cdAAe3b2f79664C7cb83b86A3D404 | 233.64 MOVR    | approved |
 | 57          | 58     | [[Proposal: MB11 & 30 / MR8 & 26] StakeGlmr.com and StakeMovr.com V2 - Treasury Proposal Q3 2025](moonriver/MRTP57&MBTP60.md) | 0x41D4B02022165Fcd47b4E0F64Aa41eEF9ef1da38 | 0x1980E75f1b1cdAAe3b2f79664C7cb83b86A3D404 | 233.64 MOVR    | approved |
 | 58          | 59     | [OnFinality's Proposal for High Performance RPC & Bootnode for Moonbeam, Moonriver, and Moonbase Alpha in Q4 2025/Q1 2026](moonriver/MRTP58&MBTP61.md) | 0x4138574878c133d3A12009d6F54B8F26De700834 | 0xa674Bf4c9eb504fe7ca195AD715De053EDEc38f3 | 1165.58 MOVR    | approved |
-| 59          | 60     | [[Proposal: MBXX/MRXX] UnitedBloc - Treasury Proposal for Q4/Q1 2026](moonriver/MRTP59&MBTP62.md) | 0x4138574878c133d3A12009d6F54B8F26De700834 | 0x2b0B08fE83fADCAffd49dfB433244ad670c2D3ba | 1301.28 MOVR    | approved |
+| 59          | 60     | [Proposal: MBXX/MRXX UnitedBloc - Treasury Proposal for Q4/Q1 2026](moonriver/MRTP59&MBTP62.md) | 0x4138574878c133d3A12009d6F54B8F26De700834 | 0x2b0B08fE83fADCAffd49dfB433244ad670c2D3ba | 1301.28 MOVR    | approved |
+| 60          | 61     | [Multisig Support as a Service: Moonbeam, Moonriver, and Moonbase for 1st Semester/2026.](moonriver/MRTP60&MBTP63.md) | 0x1CdC248174ec9e9c505fabDbb0E037B5AcaB5c13 | 0x4DA9a7f9e2381C0D663116Ed8dE297BAd1DB951c | 7140.44 MOVR    | approved |
