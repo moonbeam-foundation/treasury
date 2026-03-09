@@ -89,7 +89,7 @@ This table lists Moonbeam Treasury Proposals that have been converted into Treas
 | 62          | 62     | [[Proposal: MBXX/MRXX] UnitedBloc - Treasury Proposal for Q4/Q1 2026](moonbeam/MBTP62&MRTP59.md) | 0x41D4B02022165Fcd47b4E0F64Aa41eEF9ef1da38 | 0xfD346Be6cd55247D4b928656E0DCdC10C1660434 | 136782.86 GLMR    | approved |
 | 63          | 63     | [Multisig Support as a Service: Moonbeam, Moonriver, and Moonbase for 1st Semester/2026.](moonbeam/MBTP63&MRTP60.md) | 0x1CdC248174ec9e9c505fabDbb0E037B5AcaB5c13 | 0x4DA9a7f9e2381C0D663116Ed8dE297BAd1DB951c | 760468.91 GLMR    | approved |
 | 64          | 64     | [Treasury Council USDC payout test](moonbeam/MBTP64.md) | 0x1CdC248174ec9e9c505fabDbb0E037B5AcaB5c13 | 0x1CdC248174ec9e9c505fabDbb0E037B5AcaB5c13 | 1 USDC    | approved |
-
+| 65 | 65 | [Subscan Funding Proposal for Explorer Operations on Moonbeam, Moonriver, and Moonbase Networks – 2026](moonbeam/MBTP65&MRTP62.md) | 0x1CdC248174ec9e9c505fabDbb0E037B5AcaB5c13 | 0x4C1d278B4be149D053ECc9dDd4a0f803779962d1 | 2961514.3793 GLMR | approved |
 
 
 ### Moonriver
@@ -156,3 +156,4 @@ This table lists Moonriver Treasury Proposals that have been converted into Trea
 | 58          | 59     | [OnFinality's Proposal for High Performance RPC & Bootnode for Moonbeam, Moonriver, and Moonbase Alpha in Q4 2025/Q1 2026](moonriver/MRTP58&MBTP61.md) | 0x4138574878c133d3A12009d6F54B8F26De700834 | 0xa674Bf4c9eb504fe7ca195AD715De053EDEc38f3 | 1165.58 MOVR    | approved |
 | 59          | 60     | [Proposal: MBXX/MRXX UnitedBloc - Treasury Proposal for Q4/Q1 2026](moonriver/MRTP59&MBTP62.md) | 0x4138574878c133d3A12009d6F54B8F26De700834 | 0x2b0B08fE83fADCAffd49dfB433244ad670c2D3ba | 1301.28 MOVR    | approved |
 | 60          | 61     | [Multisig Support as a Service: Moonbeam, Moonriver, and Moonbase for 1st Semester/2026.](moonriver/MRTP60&MBTP63.md) | 0x1CdC248174ec9e9c505fabDbb0E037B5AcaB5c13 | 0x4DA9a7f9e2381C0D663116Ed8dE297BAd1DB951c | 7140.44 MOVR    | approved |
+| 62 | 62 | [Subscan Funding Proposal for Explorer Operations on Moonbeam, Moonriver, and Moonbase Networks – 2026](moonriver/MRTP62&MBTP65.md) | 0x1CdC248174ec9e9c505fabDbb0E037B5AcaB5c13 | 0x4C1d278B4be149D053ECc9dDd4a0f803779962d1 | 28382.5338 MOVR | approved |
