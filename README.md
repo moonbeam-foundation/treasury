@@ -90,6 +90,10 @@ This table lists Moonbeam Treasury Proposals that have been converted into Treas
 | 63          | 63     | [Multisig Support as a Service: Moonbeam, Moonriver, and Moonbase for 1st Semester/2026.](moonbeam/MBTP63&MRTP60.md) | 0x1CdC248174ec9e9c505fabDbb0E037B5AcaB5c13 | 0x4DA9a7f9e2381C0D663116Ed8dE297BAd1DB951c | 760468.91 GLMR    | approved |
 | 64          | 64     | [Treasury Council USDC payout test](moonbeam/MBTP64.md) | 0x1CdC248174ec9e9c505fabDbb0E037B5AcaB5c13 | 0x1CdC248174ec9e9c505fabDbb0E037B5AcaB5c13 | 1 USDC    | approved |
 | 65 | 65 | [Subscan Funding Proposal for Explorer Operations on Moonbeam, Moonriver, and Moonbase Networks – 2026](moonbeam/MBTP65&MRTP62.md) | 0x1CdC248174ec9e9c505fabDbb0E037B5AcaB5c13 | 0x4C1d278B4be149D053ECc9dDd4a0f803779962d1 | 2961514.3793 GLMR | approved |
+| 66 | 66 | [[Proposal: MB11 & 30 / MR8 & 26] StakeGlmr.com and StakeMovr.com V2 - Treasury Proposal](moonbeam/MBTP66.md) | 0x1CdC248174ec9e9c505fabDbb0E037B5AcaB5c13 | 0xAb4B115b2D23EF8DA7b0aa54FC074fB4C6886441 | 1388.64 USDC | failed |
+| 67 | 67 | [[Proposal: MB11 & 30 / MR8 & 26] StakeGlmr.com and StakeMovr.com V2 - Treasury Proposal](moonbeam/MBTP67&MRTP63.md) | 0x1CdC248174ec9e9c505fabDbb0E037B5AcaB5c13 | 0xAb4B115b2D23EF8DA7b0aa54FC074fB4C6886441 | 63331.7719 GLMR | approved |
+| 68 | 68 | [[Proposal: MBXX/MRXX] UnitedBloc - Treasury Proposal for Q2/Q3 2026](moonbeam/MBTP68&MRTP65.md) | 0x1CdC248174ec9e9c505fabDbb0E037B5AcaB5c13 | 0xfD346Be6cd55247D4b928656E0DCdC10C1660434 | 254955.1772 GLMR | approved |
+| 69 | 69 | [Dwellir’s Proposal for Moonbeam, Moonriver, and Moonbase Alpha RPC Services (Q2/Q3 2026)](moonbeam/MBTP69&MRTP66.md) | 0x1CdC248174ec9e9c505fabDbb0E037B5AcaB5c13 | 0xF8D757E04BF0fbd5432E743DD8612E62A9c983cf | 241075.9601 GLMR | approved |
 
 
 ### Moonriver
@@ -157,3 +161,7 @@ This table lists Moonriver Treasury Proposals that have been converted into Trea
 | 59          | 60     | [Proposal: MBXX/MRXX UnitedBloc - Treasury Proposal for Q4/Q1 2026](moonriver/MRTP59&MBTP62.md) | 0x4138574878c133d3A12009d6F54B8F26De700834 | 0x2b0B08fE83fADCAffd49dfB433244ad670c2D3ba | 1301.28 MOVR    | approved |
 | 60          | 61     | [Multisig Support as a Service: Moonbeam, Moonriver, and Moonbase for 1st Semester/2026.](moonriver/MRTP60&MBTP63.md) | 0x1CdC248174ec9e9c505fabDbb0E037B5AcaB5c13 | 0x4DA9a7f9e2381C0D663116Ed8dE297BAd1DB951c | 7140.44 MOVR    | approved |
 | 62 | 62 | [Subscan Funding Proposal for Explorer Operations on Moonbeam, Moonriver, and Moonbase Networks – 2026](moonriver/MRTP62&MBTP65.md) | 0x1CdC248174ec9e9c505fabDbb0E037B5AcaB5c13 | 0x4C1d278B4be149D053ECc9dDd4a0f803779962d1 | 28382.5338 MOVR | approved |
+| 63 | 63 | [[Proposal: MB11 & 30 / MR8 & 26] StakeGlmr.com and StakeMovr.com V2 - Treasury Proposal](moonriver/MRTP63&MBTP67.md) | 0x1CdC248174ec9e9c505fabDbb0E037B5AcaB5c13 | 0x1980E75f1b1cdAAe3b2f79664C7cb83b86A3D404 | 616.1586 MOVR | approved |
+| 64 | 64 | [Treasury Council response to StellaSwap request for Financial Support](moonriver/MRTP64&MBTP68.md) | 0x1CdC248174ec9e9c505fabDbb0E037B5AcaB5c13 | 0x8a296413c6EA61c7199DC26526B5334Db61bF562 | 16644.4213 MOVR | approved |
+| 65 | 65 | [[Proposal: MBXX/MRXX] UnitedBloc - Treasury Proposal for Q2/Q3 2026](moonriver/MRTP65&MBTP68.md) | 0x1CdC248174ec9e9c505fabDbb0E037B5AcaB5c13 | 0x2b0B08fE83fADCAffd49dfB433244ad670c2D3ba | 2486.3631 MOVR | approved |
+| 66 | 66 | [Dwellir’s Proposal for Moonbeam, Moonriver, and Moonbase Alpha RPC Services (Q2/Q3 2026)](moonriver/MRTP66&MBTP69.md) | 0x1CdC248174ec9e9c505fabDbb0E037B5AcaB5c13 | 0xF8D757E04BF0fbd5432E743DD8612E62A9c983cf | 2359.9885 MOVR | approved |
